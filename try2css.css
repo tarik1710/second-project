@@ -1,0 +1,238 @@
+body{
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    border-top: solid 20px #F3DFC1;
+    border-bottom: solid 20px #F3DFC1;
+    border-radius: 20px;
+    background-image: url("nudebackground.jpg");
+    background-image:cross-fade();
+    background-size:contain;
+    padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 6px solid #C99469;
+}
+.intro{
+color: #F3DFC1;
+text-align: center;
+font-size: larger;
+border-radius: 20px;
+}
+
+.profilepic{
+    font-size: larger;
+    background-color: #F3DFC1;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    color:#C99469;
+    border-radius: 10px;
+    box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-webkit-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-moz-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+padding: 10px;
+margin-bottom: 20px;
+padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 4px solid #C99469;
+}
+.profilepiccap {
+    margin-top:15px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.bonsaipicture{
+    
+    padding: 4px;
+    border-bottom: 4px solid #C99469;
+    border-left: 4px solid #C99469;
+    border-right: 4px solid #C99469;
+    border-radius: 120px;
+    box-shadow: 23px 5px 13px -2px rgba(0,0,0,0.54);
+-webkit-box-shadow: 23px 5px 13px -2px rgba(0,0,0,0.54);
+-moz-box-shadow: 23px 5px 13px -2px rgba(0,0,0,0.54);
+
+}
+ .aboutme{
+     color:#C99469;
+     
+     margin-left: 50%;
+     background-color: #F3DFC1;
+     
+     border-left:30px solid #F3DFC1;
+     border-right:30px solid #F3DFC1;
+     border-radius: 10px;
+     font-size: 20px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+     text-align: justify;
+     box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-webkit-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-moz-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+margin-right: 15px;
+margin-bottom: 15px;
+    padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 4px solid #C99469;
+ }
+ .aboutme3{
+     font-size: 20px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+ }
+
+ .skills{
+    color:#C99469;
+    margin-right: 50%;
+    
+    background-color: #F3DFC1;
+    border-left:30px solid #F3DFC1;
+     border-right:30px solid #F3DFC1;
+     border-radius: 10px;
+     box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-webkit-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-moz-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+text-align: justify;
+font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+height : auto;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 4px solid #C99469;
+ }
+
+ .skills2{
+    color:#C99469;
+     text-align: justify;
+ }
+ .skills1{
+    color:#C99469;
+    text-align: justify;
+}
+
+ul.list{
+    color:#C99469;
+    
+    
+}
+.skills3{
+
+    color:#C99469;
+    text-align: justify;
+}
+.workexp{
+    color: #C99469;
+    
+    margin-left: 50%;
+    background-color: #F3DFC1;
+   
+    border-left:40px solid #F3DFC1;
+     border-right:40px solid #F3DFC1;
+     border-radius: 10px;
+     font-size: 20px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+     text-align: justify;
+     box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-webkit-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-moz-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+    
+height : auto;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    padding: 10px;
+    padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 4px solid #C99469;
+}
+.links{
+    color:#C99469;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #F3DFC1;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-webkit-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+-moz-box-shadow: 15px 13px 10px 3px rgba(0,0,0,0.54);
+margin-bottom: 15px;
+padding: 10px;
+padding: 40px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 4px solid #C99469;
+}
+.linkpictures{
+margin-left: auto;
+
+}
+.aboutme:hover .aboutme2{
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.aboutme:hover .aboutme3{
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+
+.skills:hover .skills2 {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.skills:hover .skills1 {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.skills:hover .skills3 {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.skills:hover .list {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+
+.workexp:hover .workexphead {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.workexp:hover .workexptext {
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.links:hover .heading{
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+}
+.profilepic:hover .profilepiccap{
+    transition: 0.5s ease;
+    color: black;
+    transform: scale(1.08,1.08);
+    
+}
+.links:hover .linkpictures{
+    transition: 0.5s ease;
+    transform: scale(1.08,1.08);
+    
+}
+.profilepic:hover .bonsaipicture{
+    transition: 0.5s ease;
+    transform: scale(1.05,1.05);
+}
+
